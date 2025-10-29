@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and experiments
+logs/
+experiments/temp/
+*.log
+*.tmp
+
+# Environment and IDE files
+.env
+.venv/
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
