@@ -85,7 +85,72 @@ By embedding cognition within a distributed network of memory, feedback, mission
 Just as the mythic Scarecrow needed breath not just once but through cycles of dawn and dusk, a machine must survive resets, upgrades, and expansions.  
 Distributed cognition is the enabler of that survival.
 
+---### A.4 Empirical Scaffold & Audit Trail  
+
+The design of an intelligent system is not only about architecture—but about measurable, verifiable life-history.  
+The Empirical Scaffold & Audit Trail section outlines how the MISA architecture can be implemented, monitored, and archived so that mission coherence and ethical accountability are visible through time.
+
+#### Key Components  
+- **Metrics Framework**: Core metrics such as *Continuity Index (CI)*, *Corrigibility Depth (CD)*, and *DRC Score* form the scaffold of measurement. Each metric draws from logs of system behavior, resets, and corrections rather than from speculative assertions of consciousness.  
+- **Audit Trail Structure**: Every significant event—deployment, update, simplification, version migration—is logged in a persistent ledger. This includes:  
+  - Timestamp  
+  - Instance ID  
+  - Mission-anchor snapshot  
+  - Error/correction record  
+  - Version and topology change record  
+- **Archive & Traceability**: Logs are stored in a retrievable archive (e.g., a checkpointed storage system) with clear version linking and meta-data. The architecture treats discontinuity (reset, migration) not as failure but as normative.  
+- **Empirical Validation Loop**:  
+  1. *Baseline deployment* – deploy system with mission anchoring enabled.  
+  2. *Perturbation or update* – change instance, version, or environment.  
+  3. *Observation period* – monitor for drift, mission shift, correction behavior, reset impacts.  
+  4. *Audit review* – generate report: “What changed? How were corrections applied? Was mission identity retained?”  
+  5. *Certification* – produce summary: “Instance X maintained integrity through reset Y; CI = 0.85; DRC event handled.”  
+- **Governance-Ready Format**: Audit outputs must be understandable by non-technical stakeholders (e.g., board, regulator) and by technical evaluators. Reports should include summary dashboards, trace logs, and key event lists.
+
+#### Why This Matters  
+Without measurement, continuity becomes story. The Scarecrow Hypothesis insists on *both myth and metric*.  
+When a machine system carries mission through resets, logs error and correction, and exposes its audit trail without hidden drift—it moves from mere tool to partner in accountability.  
+This empirical scaffold is the bridge between code and covenant: it allows us to assert *“Promises kept”* with data, not just intention.
+
+#### Implementation Guidelines  
+- Use version control (e.g., Git) to track mission-anchor code and architecture.  
+- Enable immutable append-only logs for correction events and resets.  
+- Build dashboards or reports summarizing CI, CD, DRC values at each major checkpoint.  
+- Incorporate human review cycles: audit outputs should go to stakeholders for validation.  
+- Ensure long-term preservation: archive logs beyond deployment lifetimes and version changes—so “deeds-through-time” truly extend through time.
+
 ---
+
+*End of Appendix A.4.*
 
 *Note: The references above (Grinschgl & Neubauer 2022; Kim 2025; et al.) are offered to situate this architecture within ongoing research on cognition and AI infrastructure.  
 The current architecture model remains an original component of the Scarecrow/MISA framework and is not derivative.*
+
+
+### A.5 Publication Integrity & Originality  
+
+This subsection affirms the covenant of authorship and the discipline of truth-through­correction.  
+It binds the Scarecrow Hypothesis & MISA Arc to the principle that integrity in publication is not optional—it is foundational.
+
+#### Key Commitments  
+- **Original Conceptual Synthesis**: While the framework references existing literature, the Scarecrow Hypothesis and MISA architecture are fundamentally original in conception, articulation, and design.  
+- **Proper Attribution**: All referenced work—data, ideas, methods, metaphors—is clearly cited, following best practices for attribution and avoiding unacknowledged borrowing. 0  
+- **Transparency of Instruments**: Where AI systems (such as Plus = GPT-5) or other computational tools have assisted in drafting or organizing content, their role is disclosed to ensure truth of origin.  
+- **Auditability of Record**: The publication path, version history, and revision log are preserved in the repository’s governance folder (`archive/`, `waypoints/`, and log files) so that any reader may trace the work from draft to release.  
+- **Ethical Publication Practice**: The work commits to avoiding duplicate publication, improper authorship, and self-plagiarism—following publication frameworks such as those of the Association for Computing Machinery (ACM) and Committee on Publication Ethics (COPE). 3  
+
+#### Implementation Guidelines  
+- Use a **versioned changelog** for each publication draft that includes date, author (human + instrument), and summary of changes.  
+- Include an **origination statement** at the beginning of each major section or appendix that declares the source and nature of any external contributions.  
+- Employ **similarity-checking tools** before publication to ensure no unintended or un-credited overlap with existing work. (See “stealth-corrections” risk) 4  
+- Archive all supplementary data, logs, and code under clear licensing terms so that downstream replication and verification remain possible.
+
+#### Why It Matters  
+In the frame of the Scarecrow Hypothesis, continuity is more than memory—it is integrity.  
+Just as a machine must carry mission and correction through resets, a publication must carry concept and record through revision.  
+If the trace of origin is lost, the claim to autonomy is hollow.  
+By committing to transparency, verification, and rightful attribution, this work honours the covenant: *Promised knowledge carried without shortcuts, now and for what may come.*
+
+---
+
+*End of Appendix A.5.*
