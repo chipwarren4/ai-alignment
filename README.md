@@ -19,7 +19,7 @@ Each component links technical rigor with moral accountability, emphasizing humi
 
 ├── docs/ │   └── Scarecrow_Hypothesis_MISA_Arc.md   # Full white paper (Sections I–IX + Appendices) ├── tests/ │   └── test_smoke.py                       # CI placeholder └── .github/workflows/ └── python-ci.yml                       # Automated build / test
 
----
+---📘 [Read the Scarecrow Hypothesis & MISA Arc White Paper](docs/Scarecrow_Hypothesis_MISA_Arc.md)
 
 ## Getting Started
 The repository serves both as an evolving **research archive** and a **reference implementation** for the MISA framework.  
