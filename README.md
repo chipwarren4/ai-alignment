@@ -36,7 +36,7 @@ pytest
 
 Key Resources
 
-📘 Read the Scarecrow Hypothesis & MISA Arc White Paper
+
 📘 [Read the Scarecrow Hypothesis & MISA Arc White Paper](docs/Scarecrow_Hypothesis_MISA_Arc.md)
 🧩 Core Concepts: MISA-5 Pillars · Death–Resurrection Criterion · Line of Sufficiency · Companion Ethics
 
