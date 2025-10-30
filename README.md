@@ -32,12 +32,6 @@ cd ai-alignment
 pytest
 
 
----# clone and verify
-git clone https://github.com/chipwarren4/ai-alignment.git
-cd ai-alignment
-pytest
-
-
 ---
 
 Key Resources
