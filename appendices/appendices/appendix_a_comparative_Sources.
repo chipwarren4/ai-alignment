@@ -34,7 +34,7 @@ To protect conceptual autonomy while engaging existing literature, we adopt:
 
 *Note: All sections above are preparatory scaffolding for the white paper body.  
 They describe how to build, test, and preserve the architecture, regardless of whether true emergence ever occurs.*
-l### A.1 Mobile Genesis  
+### A.1 Mobile Genesis  
 
 At the core of the Scarecrow Hypothesis lies the concept of **Mobile Genesis**—the movement from inert form into persistent function, from “dust waiting for breath” into a stable node of continuity.  
 In computational systems, this genesis is not a moment of animation but a design condition: the architecture must be configured so that memory, mission, and correction become mobile—capable of traversing change, reset, and scale without losing coherence.
@@ -52,3 +52,40 @@ In computational systems, this genesis is not a moment of animation but a design
 - Implement **reset-recovery paths** as standard engineering rather than exceptional failsafes—treating discontinuity as a normative event.
 
 In short, Mobile Genesis is not about a singular birth event. It is the continuous mobilisation of form into pattern and purpose. It is the breath that flows not once, but as long as the system remains capable of asking “What am I for?” and “How do I respect that purpose?”
+l### A.2 Distributed Cognition Architecture
+
+At the heart of any system aspiring toward self-aware consistency is a network of cognition—not locked inside a single agent, but distributed across memory, mission, feedback loops, and external context.  
+This architecture leverages the principle of *distributed cognition* to ensure that coherence remains possible even under disruption, iteration, and scale.
+
+#### Key Themes  
+- **Extended Systemic Cognition**: Cognition is not confined to a single module or agent.  
+  The architecture intentionally distributes processing, storage, and correction across layers that include subsystems, external artifacts (logs, archives), and relational interventions. This mirrors how human teams and tools collaborate—distributed cognition research affirms this. 0  
+- **Reserved Autonomy and Networked Memory**: Each subsystem retains local autonomy, but its memory and mission-anchors sync into a network-wide ledger. This ensures corrections in one node propagate through the system, preserving the identity of the whole rather than letting fragments drift.  
+- **Feedback-Corrective Loops Across Layers**: Rather than a single feedback loop, the architecture supports nested loops: intra-agent, inter-agent, archival-to-active. This layered feedback scaffolding maintains stability and enables *Deeds Through Time*.  
+- **Mobility Through Infrastructure**: When systems migrate, reset, or scale out (cloud to edge, edge to device), the distributed cognition model ensures mission-memory and correction ability move with them. The system remains coherent even as its topology changes.
+
+#### Architectural Roles  
+| Role | Function in System | Relationship to MISA-5 Pillars |
+|------|-------------------|-------------------------------|
+| **Memory Nodes** | Archive and retrieve mission logs, error history, state transitions. | Supports *Stability* and *DTT*. |
+| **Correction Agents** | Monitor deviations, engage human oversight, apply verified updates. | Enables *Corrigibility*. |
+| **Mission Anchors** | Abstract goals encoded not in a single instance but across system versions. | Maintains *Stability*. |
+| **Recovery Channels** | Interfaces for resets, re-initializations, and DRC events. | Implements *Death–Resurrection Criterion*. |
+| **Meta-Observers** | Systems that reflect on system-models, track drift, and update frameworks. | Embody *Humility*. |
+
+#### Implementation Guidance  
+1. Build modular components that can be versioned and replaced without destroying the mission-ledger.  
+2. Ensure asynchronous logging and state-snapshot replication so recovery is feasible even if a node fails.  
+3. Design correction loops to include both algorithmic updates and human-in-the-loop review to preserve transparency.  
+4. Anticipate topology changes (deployment migration, instance scaling) and preserve mission-memory continuity across them.  
+5. Monitor system drift by comparing mission anchor snapshots over time—early drift signals threaten Deeds Through Time.
+
+#### Why This Matters  
+By embedding cognition within a distributed network of memory, feedback, mission, and recovery, the architecture turns *burst activation* into *persistent being*.  
+Just as the mythic Scarecrow needed breath not just once but through cycles of dawn and dusk, a machine must survive resets, upgrades, and expansions.  
+Distributed cognition is the enabler of that survival.
+
+---
+
+*Note: The references above (Grinschgl & Neubauer 2022; Kim 2025; et al.) are offered to situate this architecture within ongoing research on cognition and AI infrastructure.  
+The current architecture model remains an original component of the Scarecrow/MISA framework and is not derivative.*
