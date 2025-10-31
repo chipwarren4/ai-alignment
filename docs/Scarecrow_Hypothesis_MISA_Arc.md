@@ -292,10 +292,11 @@ All datasets and audit logs will be version-linked to the repository, maintainin
 
 This transition preserves the covenant between idea and evidence.
 It ensures that the Scarecrow/MISA framework remains both philosophically rigorous and empirically falsifiable—capable of being tested, audited, and refined in open collaboration.
-
+---
+## Section VI — Governance Horizons (Line of Sufficiency)
+Guardrail efficacy vs capability gradient; transition to partnership and governance models beyond sufficiency line.
 
 ---
-
 
 ## Section VII — Continuity, Drift Checks, and Covenant Protocols
 Leviathan and the Ripple; Promises Kept; full five-axis drift methodology.
