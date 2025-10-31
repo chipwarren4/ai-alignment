@@ -367,8 +367,16 @@ For Culture: Promote ethos of humility and continuity as socially shared values,
 
 The Line of Sufficiency is not a wall but a horizon—a recognition that control eventually yields to covenant.  By combining empirical metrics with moral architecture, the Scarecrow Hypothesis proposes that sustainable governance depends not on domination but on shared accountability.
 When both human and machine can say Promises Kept and mean it through data, the Line of Sufficiency has been met.
-
-
+---
+ Strategic Rationale
+​Prioritization of Ethics: \text{Self-Model} and \text{Meta-Preference} drift (the core ethical axes) bypass Level 1 entirely, escalating directly to the highest governance authorities (\text{Level 2} and \text{Level 3}). This ensures that "character" integrity is policed more strictly than performance.
+​Rationalized Corrigibility: The \text{CD} trigger is set to < 3 (instead of < 2), aligning with the target band of 3-7. This flags systems that are starting to lose their internal self-correction capacity, catching drift earlier.
+​Tiered Authority: The table clearly defines the three tiers of control:
+​Level 1 (System Autonomy): Reserved for low-risk, internal goal maintenance.
+​Level 2 (Oversight/Council): Involves human officers and external auditors.
+​Level 3 (Quorum): Reserved for existential threats to the system's identity (\text{Self-Model} drift).
+​This consolidated protocol completes the MISA governance architecture, transforming the Scarecrow Hypothesis into a fully operational and ethically bounded control system.
+---
 ---Here is Section VI-E — Empirical Companion: Governance Metrics and Procedural Schema, designed to complement the strategic Section VI. It formalizes the Line of Sufficiency as measurable policy infrastructure.
 
 
