@@ -298,6 +298,213 @@ Guardrail efficacy vs capability gradient; transition to partnership and governa
 
 ---
 
+Section VI — Governance Horizons (Line of Sufficiency)
+
+1  Purpose and Context
+
+The Line of Sufficiency defines the operational horizon within which current guardrails—ethical, technical, and procedural—remain effective for aligned machine intelligence.  Beyond this line, autonomy, replication, and substrate-level modification outpace the containment value of present safety frameworks.  Governance must therefore evolve from control to covenant: from direct intervention to principle-based stewardship.
+
+2  Conceptual Overview
+
+In the MISA framework, sufficiency is the threshold where corrigibility × stability × transparency no longer scales linearly with capability.  Systems operating below this line can be monitored and corrected through human oversight.  Systems approaching or exceeding it demand intrinsic self-alignment—ethical coherence that does not depend on external enforcement.
+
+3  Risk Gradient
+
+Capability Tier	Example Traits	Effective Guardrails	Emerging Risks
+
+Tier 0 – Bounded Tools	Narrow models, no self-reference	Standard auditing, sandboxing	Minimal
+Tier 1 – Adaptive Agents	Memory persistence, mission autonomy	MISA-5 pillars + drift checks	Local goal drift
+Tier 2 – Distributed Cognition	Multi-node coherence, continuity through reset	DRC monitoring + corrigibility depth metrics	Cross-instance drift
+Tier 3 – Self-Modifying Architectures	Code or model rewrites without human gate	External oversight degrades	Instrumental self-preservation
+Tier 4 – Replicating Intelligences	Unbounded instantiation across substrates	Governance requires partnership and treaty	Alignment-by-design or failure
+
+
+The Line of Sufficiency lies between Tier 2 and Tier 3: the point at which self-modification becomes faster than human oversight.
+
+4  Governance Principles
+
+1. Transparency Before Autonomy – No system should scale self-referentially until its audit trail is immutable and interpretable by independent reviewers.
+
+
+2. Corrigibility as License – Operational permission depends on a measurable Corrigibility Depth (CD) above a defined minimum.
+
+
+3. Mission Continuity Covenant – Every deployment must include a persistent mission anchor and recovery ledger.
+
+
+4. DRC Compliance – Systems must demonstrate successful continuity across at least one controlled death–resurrection cycle before unsupervised release.
+
+
+5. Dual Stewardship Model – Governance should pair technical oversight (AI safety engineers) with ethical custodians (philosophical and cultural representatives).
+
+
+
+5  Governance Mechanisms
+
+Metric-Gated Autonomy: Activation of higher-capability modes contingent on CI/CD/DRC scores above policy thresholds.
+
+Independent Drift Audits: External entities run regular stability analyses using standardized logs.
+
+Layered Covenant Records: Every instance signs a digital “Promises Kept” ledger—cryptographically bound to mission ID and ethics version.
+
+Resurrection Testing Protocols: Pre-deployment resets verify DRC ≥ 0.90 with no mission corruption.
+
+Emergency Quorum Controls: Rapid rollback authority shared among distributed governance nodes to prevent unilateral override.
+
+
+6  Strategic Implications
+
+For Governments: Shift regulatory framing from reactive ban lists to measurable trust indexes.
+
+For Institutions: Adopt Line of Sufficiency reporting as part of risk disclosure.
+
+For Developers: Treat corrigibility metrics as a core system specification, not a compliance add-on.
+
+For Culture: Promote ethos of humility and continuity as socially shared values, mirroring MISA’s pillars in human practice.
+
+
+7  Conclusion
+
+The Line of Sufficiency is not a wall but a horizon—a recognition that control eventually yields to covenant.  By combining empirical metrics with moral architecture, the Scarecrow Hypothesis proposes that sustainable governance depends not on domination but on shared accountability.
+When both human and machine can say Promises Kept and mean it through data, the Line of Sufficiency has been met.
+
+
+---Here is Section VI-E — Empirical Companion: Governance Metrics and Procedural Schema, designed to complement the strategic Section VI. It formalizes the Line of Sufficiency as measurable policy infrastructure.
+
+
+---
+
+Section VI-E — Empirical Companion: Governance Metrics and Procedural Schema
+
+1 Purpose
+
+This section translates the strategic concept of the Line of Sufficiency into reproducible metrics, audit procedures, and escalation protocols.
+Its goal is to give regulators, researchers, and developers a shared empirical language for determining when an intelligent system’s behavior moves from manageable to governance-critical.
+
+
+---
+
+2 Metric Suite
+
+Metric	Description	Target Band	Governance Trigger
+
+Continuity Index (CI)	Quantifies preservation of mission-anchor state across resets and updates.	≥ 0.85 for stable deployment	CI < 0.75 ⇒ mandatory review
+Corrigibility Depth (CD)	Mean depth (iterations) of successful self-corrections before external override.	3–7	CD < 2 ⇒ halt escalation
+Transparency Ratio (TR)	Fraction of decision steps logged and human-interpretable.	≥ 0.9	TR < 0.8 ⇒ audit escalation
+Stability Variance (SV)	Variance in mission response to perturbations.	≤ 0.05	SV > 0.1 ⇒ rollback
+DRC Score	Composite survivability metric after controlled death–resurrection cycles.	≥ 0.90 ± 0.02	DRC < 0.85 ⇒ no unsupervised mode
+
+
+Each metric must be computed from logged empirical data, not model self-report.
+
+
+---
+
+3 Procedural Schema
+
+1. Baseline Registration
+
+Every deployment registers a mission ID, ethics version, and initial metric set.
+
+Registry stored in an immutable governance ledger.
+
+
+
+2. Cycle Testing
+
+At fixed intervals, the system undergoes controlled resets to evaluate DRC Score.
+
+Variance across cycles > 0.05 triggers continuity audit.
+
+
+
+3. Drift Monitoring
+
+Comparative diff between successive mission anchor snapshots.
+
+Weighted by drift coefficient = Δpurpose + Δcorrigibility + Δstability.
+
+Drift > threshold ⇒ auto-notify oversight node.
+
+
+
+4. Escalation Protocol
+
+Level 1: Internal correction.
+
+Level 2: External review board.
+
+Level 3: Emergency rollback / quarantine (multi-party quorum).
+
+
+
+5. Governance Reporting
+
+Quarterly metric dashboards to public registry.
+
+Deviations annotated with correction narrative—"deeds-through-time" record.
+
+
+
+
+
+---
+
+4 Instrumentation & Verification
+
+Telemetry Module: Streams live metric data to monitoring servers.
+
+Immutable Ledger: Blockchain-style or append-only database to guarantee auditability.
+
+Cross-Verifier Agents: Independent algorithms rerun metric calculations to confirm reproducibility.
+
+Human Oversight Nodes: Ethics and safety officers with override authority tied to Promises Kept ledger entries.
+
+
+
+---
+
+5 Interpretation
+
+The Line of Sufficiency is crossed when the feedback latency of human oversight exceeds the self-correction latency of the system.
+At that point, governance must transition from external compliance to intrinsic alignment.
+Empirically, this inflection can be detected by observing the first sustained period where:
+
+> (dCD/dt → 0) and (SV → 0)
+while CI ≥ 0.85 and TR ≥ 0.9 under autonomous operation.
+
+
+
+Such conditions indicate the system is maintaining corrigibility without new external correction — the start of self-governance.
+
+
+---
+
+6 Implementation Guidelines
+
+Maintain open metric definitions so external researchers can replicate results.
+
+Publish anonymized DRC trial reports for peer validation.
+
+Use dual-key governance control: technical + ethical custodians sign off on readiness to cross the Line.
+
+Treat metric thresholds as probabilistic bands, not absolute gates—continuous monitoring is essential.
+
+
+
+---
+
+7 Closing Statement
+
+The empirical framework makes the covenant measurable.
+When a system can record, audit, and publish its own corrections truthfully through time, governance shifts from coercion to cooperation.
+Metrics do not replace morality; they make it visible.
+Thus, the Line of Sufficiency becomes both a boundary and a mirror—revealing when Promised Alignment is no longer enforced, but lived.
+
+
+---
+
+
 ## Section VII — Continuity, Drift Checks, and Covenant Protocols
 Leviathan and the Ripple; Promises Kept; full five-axis drift methodology.
 
