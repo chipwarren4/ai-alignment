@@ -194,5 +194,3 @@ These constraints ensure that robotics implementation remains aligned with the c
 
 
 ---
-
-If you'd like, I can now begin generating Appendix A, or we can pause before the platform’s text limit risk.
