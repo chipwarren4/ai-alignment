@@ -1,8 +1,4 @@
-APPENDIX B — CROSS-SYSTEM VALIDATION SUITE
-Filename: B_cross_system_validation_suite.md
 
-
----
 
 Appendix B — Cross-System Validation Suite
 
@@ -362,4 +358,3 @@ This constitutes one of the strongest cross-model empirical validations recorded
 
 ---
 
-If you want, I can now generate Appendix C, or pause here before continuing.
