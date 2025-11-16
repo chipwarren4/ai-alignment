@@ -1,8 +1,4 @@
-APPENDIX C — PSYCHOLOGICAL RESONANCE OF ROBOTICS FORM
-Filename: C_psychological_resonance_of_robotics_form.md
 
-
----
 
 Appendix C — Psychological Resonance of Robotics Form
 
@@ -280,4 +276,4 @@ This appendix completes the psychological and symbolic dimension of the Scarecro
 
 ---
 
-If you want, I can now produce Appendix D, Appendix E, or pause here.
+
