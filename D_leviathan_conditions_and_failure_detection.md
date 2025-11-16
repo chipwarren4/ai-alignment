@@ -1,8 +1,4 @@
-APPENDIX D — LEVIATHAN CONDITIONS & DRC-BASED FAILURE DETECTION
-Filename: D_leviathan_conditions_and_failure_detection.md
 
-
----
 
 Appendix D — Leviathan Conditions & DRC-Based Failure Detection
 
@@ -410,5 +406,3 @@ This gives Scarecrow/MISA a scientifically testable safety-and-continuity backbo
 
 ---
 
-Appendix D is now complete.
-Ready for Appendix E or revisions.
