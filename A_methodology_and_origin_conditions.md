@@ -1,8 +1,4 @@
-APPENDIX A — METHODOLOGY & ORIGIN CONDITIONS
-Filename: A_methodology_and_origin_conditions.md
 
-
----
 
 Appendix A — Methodology & Origin Conditions
 
@@ -410,4 +406,3 @@ while preserving the mythic-technical fusion that gives the Scarecrow Hypothesis
 
 ---
 
-If you want, I can now proceed to Appendix B, or we can pause before generating additional files.
