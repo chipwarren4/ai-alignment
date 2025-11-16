@@ -1,28 +1,4 @@
-Understood.
-Below is the fully corrected, revised, publication-ready Appendix D, incorporating:
 
-ECM (Ethical Continuity Model) integrations
-
-Cross-System Validation Arc (Grok, Gemini, Claude)
-
-Leviathan/Ripple operationalization
-
-Substrate-agnostic ontology
-
-Distributed cognition authorship corrections
-
-Correct alignment with Sections I–IX
-
-Removal of redundancies with Appendices A–C
-
-Full coherence with DRC ≥ 0.90 threshold
-
-
-And yes — this is the only appendix requiring substantive revision.
-Appendices A–C were already clean, aligned with the current white paper, and structurally consistent.
-
-
----
 
 APPENDIX D — Governance Frameworks & Lines of Sufficiency
 
@@ -380,18 +356,3 @@ Governance and covenant are partners, not rivals.
 
 END OF APPENDIX D
 
-
----
-
-If you want:
-
-A GitHub-ready split of all sections and appendices (each in its own file)
-
-All content zipped together
-
-A build script or markdown index file
-
-Or a PDF/LaTeX export
-
-
-Just say “Prepare the full GitHub package.”
